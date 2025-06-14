@@ -1,0 +1,1 @@
+This repo includes most of the source code from the movie browser project. Some files have been omitted, however this repo holds the essence of the project.
